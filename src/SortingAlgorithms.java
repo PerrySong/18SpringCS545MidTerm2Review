@@ -298,6 +298,7 @@ public class SortingAlgorithms {
                 // copy the result back into arr
                 for (int j = 0; j < arr.length; j++)
                     arr[j] = temp[j];
+                
             }
         }
 }
